@@ -21,8 +21,9 @@ Sobre mim
 
 🌱 Projetos
 
-* Bikcraft:
-* Animais Fantásticos:
+* Bikcraft: https://chaf012.github.io/bickraft/
+* Animais Fantásticos: https://chaf012.github.io/animaisfantasticos/
+* Dogs: https://chaf012.github.io/dogs/
 
 📫 Contato
 * LinkedIn: www.linkedin.com/in/caio-henrique-almeida-ferreira
